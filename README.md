@@ -5,7 +5,7 @@
    <li>Next and Pervious Button</li>
    <li>Light Box view</li>
    <li>Responsive Design</li>
-   <li>Image Filter</li>
+   <li>Category wise Image Filter</li>
 </ul>
 <h2>Technical Stack</h2>
 <ul>
